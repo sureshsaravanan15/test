@@ -1,0 +1,3 @@
+flask 2.00
+tensorflow 3.20
+seaborn 2.00
